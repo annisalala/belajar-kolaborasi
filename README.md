@@ -1,2 +1,2 @@
 # Belajar Kolaborasi
-latihan dulu
+latihan dulu ya
